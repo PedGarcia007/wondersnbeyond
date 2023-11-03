@@ -1,4 +1,4 @@
-# Wonders and Beyond!
+# WonderNBeyond
 
 ## Description:
 Wonders and Beyond is a web application dedicated to the exploration of magic, its spells, deities, potions, and the shared experiences of its community members.
