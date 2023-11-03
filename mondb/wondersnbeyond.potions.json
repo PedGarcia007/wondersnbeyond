@@ -1,0 +1,112 @@
+[{
+  "_id": {
+    "$oid": "652dcc9a00d45b655354781f"
+  },
+  "name": "Healing Potion",
+  "purpose": "To heal minor wounds and injuries",
+  "materials": "Aloe Vera, Lavender, Water"
+},
+{
+  "_id": {
+    "$oid": "652dcc9a00d45b6553547820"
+  },
+  "name": "Invisibility Elixir",
+  "purpose": "To become temporarily invisible",
+  "materials": "Moonstone, Mandrake Root, Unicorn Hair"
+},
+{
+  "_id": {
+    "$oid": "652dcc9a00d45b6553547821"
+  },
+  "name": "Strength Tonic",
+  "purpose": "To temporarily increase physical strength",
+  "materials": "Basilisk Scale, Dragon Blood, Essence of Bear"
+},
+{
+  "_id": {
+    "$oid": "652dcc9a00d45b6553547822"
+  },
+  "name": "Wisdom Elixir",
+  "purpose": "Enhances mental clarity and insight",
+  "materials": "Sage Leaves, Owl Feather, Essence of Sage"
+},
+{
+  "_id": {
+    "$oid": "652dcc9a00d45b6553547823"
+  },
+  "name": "Energy Infusion",
+  "purpose": "Provides a boost of energy and alertness",
+  "materials": "Ginseng Root, Green Tea Leaves, Honey"
+},
+{
+  "_id": {
+    "$oid": "652dcc9a00d45b6553547824"
+  },
+  "name": "Restorative Elixir",
+  "purpose": "Revitalizes the body and mind after exhaustion",
+  "materials": "Eucalyptus, Ginseng Root, Lavender Oil"
+},
+{
+  "_id": {
+    "$oid": "652dcc9a00d45b6553547825"
+  },
+  "name": "Sleep Draught",
+  "purpose": "Induces a deep and restful sleep",
+  "materials": "Valerian Root, Chamomile, Lavender Oil"
+},
+{
+  "_id": {
+    "$oid": "652dcc9a00d45b6553547826"
+  },
+  "name": "Fire Resistance Brew",
+  "purpose": "Provides temporary resistance to fire",
+  "materials": "Salmander Scale, Firebloom, Phoenix Feather"
+},
+{
+  "_id": {
+    "$oid": "652dcc9a00d45b6553547827"
+  },
+  "name": "Truth Serum",
+  "purpose": "Compels truthfulness in those who consume it",
+  "materials": "Veritaserum, Angelica Root, Unicorn Blood"
+},
+{
+  "_id": {
+    "$oid": "652dcc9a00d45b6553547828"
+  },
+  "name": "Luck Infusion",
+  "purpose": "Bestows a temporary stroke of luck",
+  "materials": "Four-leaf Clover, Rabbit's Foot, Moonstone"
+},
+{
+  "_id": {
+    "$oid": "652dcc9a00d45b6553547829"
+  },
+  "name": "Cleansing Elixir",
+  "purpose": "Purifies the body and spirit",
+  "materials": "Sage Leaves, Rosemary, Crystal Quartz"
+},
+{
+  "_id": {
+    "$oid": "652dcc9a00d45b655354782a"
+  },
+  "name": "Timeless Elixir",
+  "purpose": "Slows down the aging process",
+  "materials": "Elderflower, Timeblossom, Diamond Dust"
+},
+{
+  "_id": {
+    "$oid": "652dcc9a00d45b655354782b"
+  },
+  "name": "Antidote",
+  "purpose": "Cures various poisons and toxins",
+  "materials": "Mandrake Root, Wolfsbane, Phoenix Tear"
+},
+{
+  "_id": {
+    "$oid": "652dcc9a00d45b655354782c"
+  },
+  "name": "Mystic Brew",
+  "purpose": "Unlocks hidden magical potential",
+  "materials": "Enchanted Amber, Starlight Moss, Moonstone"
+}]

@@ -1,0 +1,10 @@
+<div class="container">
+  <h2>List of Spells</h2>
+  <ul>
+    <li *ngFor="let spell of spells">
+      <h3>Name: {{ spell.name }}</h3>
+      <p>Purpose: {{ spell.purpose }}</p>
+      <p><em>Material: {{spell.materials}}</em></p>
+    </li>
+  </ul>
+</div>

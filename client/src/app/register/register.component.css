@@ -1,0 +1,30 @@
+div {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    background-color: #fff;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .error-message {
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+.btn {
+  border-radius: 70px;  
+  padding: 10px 20px;  
+  transition: background-color 0.3s, transform 0.3s;
+  margin-right: 10px; 
+}
+
+.btn:hover {
+  background-color: #007acc; 
+  transform: scale(1.05);   
+}

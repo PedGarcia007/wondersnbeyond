@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "6530899624d5dc47f382f486"
+  },
+  "title": "Healing",
+  "post": "I've discovered a powerful healing spell using Sunstone and Angel Feather!",
+  "author": "Annonymous"
+},
+{
+  "_id": {
+    "$oid": "65321728d9474bc147c9aae1"
+  },
+  "title": "Honey",
+  "post": "Use to heal soar Through!",
+  "author": "Homereemedies.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6534884cd448bcbc76c72ad0"
+  },
+  "title": "Lighting spell",
+  "post": "Pray to Zeus on a thunderstorm with a metal Javelin throw it at your target and if you prayed hard enough Lighting will strike ",
+  "author": "Imnotresponsable if Zeus smits you ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "653b33ffacf216b08a2addb6"
+  },
+  "title": "test1",
+  "post": "test1",
+  "author": "Anonymous",
+  "__v": 0
+}]

@@ -1,0 +1,12 @@
+
+create database
+
+use wondersnbeyond
+
+db.createCollection("beyonds")
+db.createCollection("potions")
+db.createCollection("spells")
+db.createCollection("users")
+db.createCollection("spellShares")
+db.createCollection("beyonds")
+

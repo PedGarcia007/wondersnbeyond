@@ -1,0 +1,27 @@
+<div class="container">
+    <h2>Search</h2>
+    <input type="text" [(ngModel)]="searchQuery" placeholder="Enter your search term..." (keyup.enter)="onSearch()">
+    <button class="btn"  (click)="onSearch()">Search</button>
+    <ul *ngIf="results.length > 0">
+        <li *ngFor="let item of results">
+            <div *ngIf="item.title">
+                <h3>Title: {{ item.title }} </h3> 
+                <p>Author: {{ item.author }} </p>
+                <p><em>Post: {{ item.post }} </em></p>
+            </div>
+            <div *ngIf="item.pantheon">
+                <h3>Name: {{ item.name }}</h3>
+                <p>Pantheon: {{ item.pantheon }} </p>
+                <p>Attributes: {{ item.attributes }} </p>
+                <p>Mythology: {{ item.mythology }} </p>
+                <p><em>Symbols: {{ item.symbols }} </em></p>
+            </div>
+            <div *ngIf="item.purpose">
+                      <h3>Name: {{ item.name }}</h3>
+                      <p>Purpose: {{ item.purpose }}</p>
+                      <p><em>Material: {{item.materials}}</em></p>
+            </div>
+        </li>
+    </ul>
+    <div *ngIf="errorMessage">{{ errorMessage }}</div>
+</div>

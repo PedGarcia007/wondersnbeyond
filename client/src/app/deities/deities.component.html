@@ -1,0 +1,13 @@
+<div class="container">
+  <h2>List of Deities</h2>
+  <ul>
+    <li *ngFor="let deity of deities">
+      <h3>Name: {{ deity.name }}</h3>
+      <p>Pantheon: {{ deity.pantheon }}</p>
+      <p><em>Attributes: {{deity.attributes}}</em></p>
+      <p><em>Mythology: {{deity.mythology}}</em></p>
+      <p><em>Symbols: {{deity.symbols}}</em></p>
+    </li>
+  </ul>
+</div>
+

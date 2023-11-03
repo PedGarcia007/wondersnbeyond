@@ -1,0 +1,112 @@
+[{
+  "_id": {
+    "$oid": "652dccaa00d45b6553547831"
+  },
+  "name": "Fireball",
+  "purpose": "To create a ball of fire for offensive magic",
+  "materials": "Sulfur, Bat Wing, Dragon Scale"
+},
+{
+  "_id": {
+    "$oid": "652dccaa00d45b6553547832"
+  },
+  "name": "Teleportation",
+  "purpose": "To instantly transport to a different location",
+  "materials": "Ender Pearl, Obsidian, Ghast Tear"
+},
+{
+  "_id": {
+    "$oid": "652dccaa00d45b6553547833"
+  },
+  "name": "Healing Light",
+  "purpose": "To heal wounds and injuries with light magic",
+  "materials": "Sunstone, Angel Feather, Crystal"
+},
+{
+  "_id": {
+    "$oid": "652dccaa00d45b6553547834"
+  },
+  "name": "Frost Nova",
+  "purpose": "To freeze and slow down enemies",
+  "materials": "Ice Crystal, Yeti Hair, Frostweed"
+},
+{
+  "_id": {
+    "$oid": "652dccaa00d45b6553547835"
+  },
+  "name": "Shadowmeld",
+  "purpose": "To become nearly invisible in shadows",
+  "materials": "Shadow Essence, Nightshade, Moonstone"
+},
+{
+  "_id": {
+    "$oid": "652dccaa00d45b6553547836"
+  },
+  "name": "Elemental Fury",
+  "purpose": "To harness the power of the elements for offense",
+  "materials": "Fire Essence, Water Droplet, Air Feather, Earth Crystal"
+},
+{
+  "_id": {
+    "$oid": "652dccaa00d45b6553547837"
+  },
+  "name": "Mind Control",
+  "purpose": "To temporarily influence the thoughts of others",
+  "materials": "Enchanted Amethyst, Mindbender Root, Illusion Dust"
+},
+{
+  "_id": {
+    "$oid": "652dccaa00d45b6553547838"
+  },
+  "name": "Lightning Strike",
+  "purpose": "To summon a powerful bolt of lightning",
+  "materials": "Thunderstone, Stormcloud Feather, Silver Rod"
+},
+{
+  "_id": {
+    "$oid": "652dccaa00d45b6553547839"
+  },
+  "name": "Illusionary Mirror",
+  "purpose": "To create a decoy of the caster",
+  "materials": "Mirror Shard, Illusion Powder, Moonstone"
+},
+{
+  "_id": {
+    "$oid": "652dccaa00d45b655354783a"
+  },
+  "name": "Gravity Well",
+  "purpose": "To create a localized area of increased gravity",
+  "materials": "Black Hole Crystal, Graviton Particle, Stardust"
+},
+{
+  "_id": {
+    "$oid": "652dccaa00d45b655354783b"
+  },
+  "name": "Soul Bind",
+  "purpose": "To link the caster's life force with a target",
+  "materials": "Soulstone, Bloodroot Vine, Shadow Crystal"
+},
+{
+  "_id": {
+    "$oid": "652dccaa00d45b655354783c"
+  },
+  "name": "Time Stop",
+  "purpose": "To momentarily halt the flow of time",
+  "materials": "Temporal Crystal, Chrono Dust, Hourglass Sand"
+},
+{
+  "_id": {
+    "$oid": "652dccaa00d45b655354783d"
+  },
+  "name": "Barrier Ward",
+  "purpose": "To create a protective energy barrier",
+  "materials": "Warding Glyph, Essence of Shielding, Guardian Stone"
+},
+{
+  "_id": {
+    "$oid": "652dccaa00d45b655354783e"
+  },
+  "name": "Enchanted Beacon",
+  "purpose": "To emit a powerful guiding light",
+  "materials": "Luminescent Crystal, Celestial Feather, Sunstone"
+}]

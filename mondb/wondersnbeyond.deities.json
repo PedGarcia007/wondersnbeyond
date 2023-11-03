@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "652dcc8400d45b655354780f"
+  },
+  "name": "Zeus",
+  "pantheon": "Greek",
+  "attributes": "King of the gods, god of the sky and thunder",
+  "mythology": "Greek mythology",
+  "symbols": "Thunderbolt, Eagle, Oak tree"
+},
+{
+  "_id": {
+    "$oid": "652dcc8400d45b6553547810"
+  },
+  "name": "Aphrodite",
+  "pantheon": "Greek",
+  "attributes": "Goddess of love, beauty, and pleasure",
+  "mythology": "Greek mythology",
+  "symbols": "Dove, Rose, Scallop shell"
+},
+{
+  "_id": {
+    "$oid": "652dcc8400d45b6553547811"
+  },
+  "name": "Odin",
+  "pantheon": "Norse",
+  "attributes": "All-father, god of wisdom, war, and poetry",
+  "mythology": "Norse mythology",
+  "symbols": "Spear, Ravens, Wolves"
+},
+{
+  "_id": {
+    "$oid": "652dcc8400d45b6553547812"
+  },
+  "name": "Fortuna",
+  "pantheon": "Roman",
+  "attributes": "Goddess of luck, fortune, and fate",
+  "mythology": "Roman mythology",
+  "symbols": "Wheel, Cornucopia, Ship"
+},
+{
+  "_id": {
+    "$oid": "652dcc8400d45b6553547813"
+  },
+  "name": "Hera",
+  "pantheon": "Greek",
+  "attributes": "Queen of the gods, goddess of marriage and childbirth",
+  "mythology": "Greek mythology",
+  "symbols": "Peacock, Pomegranate"
+},
+{
+  "_id": {
+    "$oid": "652dcc8400d45b6553547814"
+  },
+  "name": "Thor",
+  "pantheon": "Norse",
+  "attributes": "God of thunder, lightning, storms, oak trees, strength, the protection of mankind",
+  "mythology": "Norse mythology",
+  "symbols": "Mjolnir (hammer), Oak tree, Lightning bolt"
+},
+{
+  "_id": {
+    "$oid": "652dcc8400d45b6553547815"
+  },
+  "name": "Isis",
+  "pantheon": "Egyptian",
+  "attributes": "Goddess of magic, motherhood, and fertility",
+  "mythology": "Egyptian mythology",
+  "symbols": "Ankh, Throne, Sistrum"
+},
+{
+  "_id": {
+    "$oid": "652dcc8400d45b6553547816"
+  },
+  "name": "Brahma",
+  "pantheon": "Hindu",
+  "attributes": "Creator god, supreme being",
+  "mythology": "Hindu mythology",
+  "symbols": "Lotus, Swan"
+},
+{
+  "_id": {
+    "$oid": "652dcc8400d45b6553547817"
+  },
+  "name": "Amaterasu",
+  "pantheon": "Japanese",
+  "attributes": "Sun goddess, supreme deity of the Shinto pantheon",
+  "mythology": "Japanese mythology",
+  "symbols": "Sun, Mirror, Rooster"
+},
+{
+  "_id": {
+    "$oid": "652dcc8400d45b6553547818"
+  },
+  "name": "Quetzalcoatl",
+  "pantheon": "Aztec",
+  "attributes": "Feathered serpent god, god of wind, air, and learning",
+  "mythology": "Aztec mythology",
+  "symbols": "Feathered serpent, Wind, Quetzal bird"
+},
+{
+  "_id": {
+    "$oid": "652dcc8400d45b6553547819"
+  },
+  "name": "Krishna",
+  "pantheon": "Hindu",
+  "attributes": "Avatar of the god Vishnu, divine hero and teacher",
+  "mythology": "Hindu mythology",
+  "symbols": "Flute, Peacock feather, Cow"
+},
+{
+  "_id": {
+    "$oid": "652dcc8400d45b655354781a"
+  },
+  "name": "Morrigan",
+  "pantheon": "Celtic",
+  "attributes": "Goddess of war, fate, and death",
+  "mythology": "Celtic mythology",
+  "symbols": "Crow, Raven, Wolf"
+},
+{
+  "_id": {
+    "$oid": "652dcc8400d45b655354781b"
+  },
+  "name": "Ra",
+  "pantheon": "Egyptian",
+  "attributes": "Sun god, creator of the world",
+  "mythology": "Egyptian mythology",
+  "symbols": "Sun disk, Falcon, Scarab"
+},
+{
+  "_id": {
+    "$oid": "652dcc8400d45b655354781c"
+  },
+  "name": "Lakshmi",
+  "pantheon": "Hindu",
+  "attributes": "Goddess of wealth, prosperity, and fortune",
+  "mythology": "Hindu mythology",
+  "symbols": "Lotus, Elephant, Owl"
+}]

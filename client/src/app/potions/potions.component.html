@@ -1,0 +1,10 @@
+<div class="container">
+  <h2>List of Potions</h2>
+  <ul>
+    <li *ngFor="let potion of potions">
+      <h3>Name: {{ potion.name }}</h3>
+      <p>Purpose: {{ potion.purpose }}</p>
+      <p><em>Materials: {{potion.materials}}</em></p>
+    </li>
+  </ul>
+</div>

@@ -1,0 +1,39 @@
+<div>
+  <br>
+  <form (ngSubmit)="onSubmit()">
+    <div>
+      <label for="username">Username:</label>
+      <input type="text" id="username" [(ngModel)]="username" name="username" required>
+    </div>
+    <div>
+      <label for="password">Password:</label>
+      <input type="password" id="password" [(ngModel)]="password" name="password" required>
+    </div>
+    <button class="btn"  type="submit">Login</button>
+  </form>
+  <p>Don't have an account? <a routerLink="/register">Register here</a> </p>
+
+  <div *ngIf="user">
+    <h3>Your Information</h3>
+    <div>
+      <label for="firstName">First Name:</label>
+      <input type="text" id="firstName" [(ngModel)]="user.firstName" name="firstName">
+    </div>
+    <div>
+      <label for="lastName">Last Name:</label>
+      <input type="text" id="lastName" [(ngModel)]="user.lastName" name="lastName">
+    </div>
+    <div>
+      <label for="email">Email:</label>
+      <input type="text" id="email" [(ngModel)]="user.email" name="email">
+    </div>
+    <button class="btn"  (click)="onUpdate()">Update</button>
+    <div>
+      <label for="newPassword">New Password:</label>
+      <input type="password" id="newPassword" [(ngModel)]="newPassword" name="newPassword">
+    </div>
+    <span *ngIf="passwordValidationError" class="error-message">{{ passwordValidationError }}</span> 
+    <button class="btn"  (click)="onChangePassword()">Change Password</button>
+   
+  </div>
+</div>
