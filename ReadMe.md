@@ -1,5 +1,3 @@
-
-```markdown
 # Wonders and Beyond!
 
 ## Description:
